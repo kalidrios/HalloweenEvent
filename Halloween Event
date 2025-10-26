@@ -1,0 +1,17 @@
+-- Como sou pouco e sei pouco faço pouco que me cabe dado por inteiro
+
+return {
+	["Halloween Event"] = {
+		display = "Halloween Event", 
+		mainCurrency = "Halloween Candy", 
+		worldOrder = 0, 
+		teleportImage = "rrbxassetid://12405479224", --12447472050
+		disabled = false, 
+		requiredArea = nil, 
+		hardcoreOnly = true, 
+		music = { "rbxassetid://6918026709", "rbxassetid://82847320458601", "rbxassetid://82847320458601", "rbxassetid://6918026842", "rbxassetid://82847320458601", "rbxassetid://7009860327", "rbxassetid://7009860283", "rbxassetid://7009860392", "rbxassetid://82847320458601", "rbxassetid://7810629972", "rbxassetid://10296556752" }, 
+		ambience = "rbxassetid://7810561208", 
+		ambienceVolume = 0.175, 
+		spawns = {}
+	}
+};
