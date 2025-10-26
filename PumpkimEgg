@@ -1,0 +1,15 @@
+return {
+	hatchable = false, 
+	disabled = true, 
+	displayName = "Pumpkin Egg", 
+	cost = 25000, 
+	currency = "Halloween Candy", 
+	area = "", 
+	areaRequired = false, 
+	eggRequired = "", 
+	eggRequiredOpenAmount = 0, 
+	isGolden = false, 
+	hardcoreEnabled = true, 
+	drops = { { "219", 100 }, { "221", 75 }, { "220", 4.5 }, { "218", 0.4 } }, 
+	model = script.Parent:WaitForChild("Egg")
+};
